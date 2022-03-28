@@ -1,0 +1,17 @@
++----------------------------------------------------------------------+
+|	S02 - Introdução												   |
+|	1.1 - Programação Funcional em Haskell: Paradigmas de Programação  |
++----------------------------------------------------------------------+
++------------------------------------------------+
+|	Nome       - Guilherme Augusto Dias Do Carmo |
+|	Curso      - Ciência da computação			 |
+|	Matrícula  - 501744							 |
+|	Disciplina - Programação Funcional			 |
+|	Professor  - David Sena						 |
+|	E-Mail     - guiidiasdc@gmail.com            |
+|	GitHub	   - github.com/GuilhermeAugustoDC/  |
++------------------------------------------------+
+
+_________________________________________________________________________
+
+		
