@@ -1,0 +1,16 @@
+- Funções puras: Funções puras são funções que dado um parâmetro input sempre vão retornar o mesmo output sem causar efeitos colaterais, ou seja os efeitos colaterais ocorrem quando uma função ao ser executada causa mudanças no estado da aplicação, o que são chamadas de funções impuras.
+
+Porque usar funções puras: 
+	1. Refatoração: Refatore seu código sempre que possível, funções puras te proporcionam a facilidade de mudança para que você possa observar melhorias e aplica-las sem afetar o restante de sua aplicação.
+	
+	2. Testabilidade: Pelo simples motivo de funções puras terem seus valores de entrada e saída determinados, isso vai facilitar muito a escrita de seus códigos unitários. Deixando assim o codigo com menos chance de quebra.
+	
+Se modificarmos alguma variavel que foi passada como parâmetro para a função, teremos causado uma mutação que pode ser inesperada e pode acabar comprometendo o funcionamento de outras funções do sistema.
+
+- Recursão: A Recursividade é uma idéia inteligente que desempenha um papel central na programação funcional e na ciência da computação em geral. A recursividade é normalmente usada na programação funcional.
+	
+Porque usar recursividade: A vantagem de usar métodos recursivos é a simplicidade de implementação de algoritimos que são por natureza recursivos. Mas em geral implementações recursivas são menos eficientes e podem ser convertidas para implementações iterativas.
+
+- Avaliação preguiçosa: Avaliação preguiçosa é uma técnica usada em programação para atrasar a computação até um ponto em que o resultado da computação é considerado necessário.
+
+Porque usar Avaliação Preguiçosa: A avaliação de uma expressão é suspensa, ou atrasada ate que o resultado dessa expressão seja necessário. E apartir do momento que o resultado tiver sido calculado ele é memorizado, e se for preciso usar ele novamente ele será reutilizado e não computado denovo.
